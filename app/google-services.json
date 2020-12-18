@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "870078522322",
+    "firebase_url": "https://camm-e43bb.firebaseio.com",
+    "project_id": "camm-e43bb",
+    "storage_bucket": "camm-e43bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870078522322:android:e617a354d45c608bf29e0b",
+        "android_client_info": {
+          "package_name": "com.khalil.houmani.cam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870078522322-9uidkic68oi04i430hq3ekfltat3b5i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQFcpB0dEjacHgVhT-TLRcdccfdxUBlvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870078522322-9uidkic68oi04i430hq3ekfltat3b5i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
